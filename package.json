@@ -1,0 +1,15 @@
+{
+  "name": "coinbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^0.14.2",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {
+    "eslint": "^4.12.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
